@@ -3,7 +3,7 @@ package edu.saintjoe.cs.wills.SimpleDotCom;
 public class SimpleDotComTestDrive {
 
 	public static void main(String[] args) {
-		SimpleDotCom dot = new SimpleDotCom();
+		SimpleDotComWKS dot = new SimpleDotComWKS();
 		int [] locations = {2,3,4};
 		dot.setLocationCells(locations);
 		String userGuess = "2";
